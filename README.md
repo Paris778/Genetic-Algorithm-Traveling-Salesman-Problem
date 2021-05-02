@@ -38,6 +38,7 @@ For the Population Size parameter, it was decided that 50 was the optimal number
   
 ### Number of Iterations : 6000
 This is a graph displaying the distance metric (y-axis) against the number of iterations (x-axis)
+<br /><br />
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture6.JPG "Best Solution")
 
 ### Mutation type: Flip mutation
@@ -58,8 +59,8 @@ It was determined that the best results were obtained with a mutation probabilit
 
 ## BONUS
 
-During development, at some point the algorothm came up with a harmonograph as an optimal solution which I thought was very interesting.
-
+During development, at some point the algorithm came up with a **harmonograph** as an optimal solution which I thought was very interesting.
+<br /><br />
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Harmonograph.JPG "Best Solution")
 
 
