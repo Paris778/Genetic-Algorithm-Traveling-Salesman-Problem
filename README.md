@@ -53,7 +53,7 @@ Below are the results obtained for every type of mutation strategy implemented a
   
 ### Cross-over Probability:
 It was determined that the best results were obtained with a crossover probability of *0.5-0.7*
-#### Mutation Probability:
+### Mutation Probability:
 It was determined that the best results were obtained with a mutation probability of *0.7-0.8*
 
 ## BONUS
