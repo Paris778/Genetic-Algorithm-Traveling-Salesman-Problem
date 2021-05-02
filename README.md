@@ -26,7 +26,7 @@ In reality, and for this probelm specifically, the nodes can be many-many more:
 
 And using this implementation we are able to find the optimal path for this set of nodes.
 
-![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture.JPG "Best Solution")
+![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture3.JPG "Best Solution")
 
 ## Optimal parameters
 
