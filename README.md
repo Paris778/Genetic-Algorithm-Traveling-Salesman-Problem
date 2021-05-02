@@ -32,26 +32,26 @@ And using this implementation we are able to find the optimal path for this set 
 
 For this implementation the Optimal parameters were:
 
-#### Population size : 50
+### Population size : 50
 For the Population Size parameter, it was decided that 50 was the optimal number in regards to a result to time ratio.
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture5.JPG "Best Solution")
   
-#### Number of Iterations : 6000
+### Number of Iterations : 6000
 This is a graph displaying the distance metric (y-axis) against the number of iterations (x-axis)
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture6.JPG "Best Solution")
 
-#### Mutation type: Flip mutation
+### Mutation type: Flip mutation
 
 Below are the results obtained for every type of mutation strategy implemented and tested
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture7.JPG "Best Solution")
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture8.JPG "Best Solution")
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture9.JPG "Best Solution")
   
-#### Selection method : Elitist Selection
+### Selection method : Elitist Selection
 
-#### Cross-over method : Single-Point Crossover
+### Cross-over method : Single-Point Crossover
   
-#### Cross-over Probability:
+### Cross-over Probability:
 It was determined that the best results were obtained with a crossover probability of *0.5-0.7*
 #### Mutation Probability:
 It was determined that the best results were obtained with a mutation probability of *0.7-0.8*
