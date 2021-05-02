@@ -22,7 +22,7 @@ see a simple five-node graph:
 
 In reality, and for this probelm specifically, the nodes can be many-many more:
 
-![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture2.JPG "Best Solution")
+![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture2.jpg "Bes")
 
 And using this implementation we are able to find the optimal path for this set of nodes.
 
