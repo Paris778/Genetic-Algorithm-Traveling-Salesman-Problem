@@ -18,6 +18,7 @@ problem starting and finishing at a specified vertex after having visited each o
 exactly once. The goal is to find the path with the shortest sum of weights. Below, we
 see a simple five-node graph:
 
+
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture4.JPG "Title")
 
 In reality, and for this probelm specifically, the nodes can be many-many more:
