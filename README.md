@@ -20,6 +20,7 @@ see a simple five-node graph:
 
 
 
+
 ![Alt text](https://github.com/Paris778/Genetic-Algorithm-Traveling-Salesman-Problem/blob/main/scnrSHots/Capture4.JPG "Title")
 
 In reality, and for this probelm specifically, the nodes can be many-many more:
